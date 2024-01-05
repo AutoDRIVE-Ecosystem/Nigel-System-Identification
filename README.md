@@ -1,2 +1,1 @@
-# Nigel-System-Identification
-System Identification of Nigel
+# Nigel System Identification

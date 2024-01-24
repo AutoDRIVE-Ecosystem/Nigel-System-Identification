@@ -1,8 +1,10 @@
 # Nigel System Identification
 
-| ![](Media/CG-Identification.jpg) | ![](Media/Yaw-MOI-Identification.jpg) | ![](Media/Tire-Stiffness-Identification.jpg) | ![](Media/Friction-Coefficient-Identification.jpg) |
-|----------------------------------|---------------------------------------|----------------------------------------------|----------------------------------------------------|
-| CG Identification                | Yaw MOI Identification                | Tire Stiffness Identification                | Friction Coefficient Identification                |
+| ![](Media/CG-Identification.JPG) | ![](Media/Yaw-MOI-Identification.JPG) |
+|:--------------------------------:|:-------------------------------------:|
+| CG Identification                | Yaw MOI Identification                |
+| ![](Media/Tire-Stiffness-Identification.JPG) | ![](Media/Friction-Coefficient-Identification.JPG) |
+| Tire Stiffness Identification                | Friction Coefficient Identification                |
 
 | Parameter             | Symbol | Value                                     | Unit     |
 |-----------------------|--------|-------------------------------------------|----------|

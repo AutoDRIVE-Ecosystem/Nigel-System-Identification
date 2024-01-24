@@ -1,10 +1,14 @@
 # Nigel System Identification
 
+## Experiments
+
 | ![](Media/CG-Identification.JPG) | ![](Media/Yaw-MOI-Identification.JPG) |
 |:--------------------------------:|:-------------------------------------:|
 | CG Identification                | Yaw MOI Identification                |
 | ![](Media/Tire-Stiffness-Identification.JPG) | ![](Media/Friction-Coefficient-Identification.JPG) |
 | Tire Stiffness Identification                | Friction Coefficient Identification                |
+
+## Measured and Identified Parameters
 
 | Parameter             | Symbol | Value                                     | Unit     |
 |-----------------------|--------|-------------------------------------------|----------|

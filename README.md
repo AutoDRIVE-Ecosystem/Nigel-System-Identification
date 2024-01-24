@@ -1,5 +1,7 @@
 # Nigel System Identification
 
+System Identification of Nigel
+
 ## Experiments
 
 | ![](Media/CG-Identification.JPG) | ![](Media/Yaw-MOI-Identification.JPG) |

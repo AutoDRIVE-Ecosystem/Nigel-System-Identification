@@ -1,5 +1,9 @@
 # Nigel System Identification
 
+| ![](Media/CG-Identification.jpg) | ![](Media/Yaw-MOI-Identification.jpg) | ![](Media/Tire-Stiffness-Identification.jpg) | ![](Media/Friction-Coefficient-Identification.jpg) |
+|----------------------------------|---------------------------------------|----------------------------------------------|----------------------------------------------------|
+| CG Identification                | Yaw MOI Identification                | Tire Stiffness Identification                | Friction Coefficient Identification                |
+
 | Parameter             | Symbol | Value                                     | Unit     |
 |-----------------------|--------|-------------------------------------------|----------|
 | Length                | L      | 0.31847                                   | m        |
@@ -18,4 +22,4 @@
 
 *CG position is measured from the front-left wheel contact point.
 
-**Friction coefficient noted here is identified for polished concrete floor under nominal conditions.
+**Friction coefficient noted here is identified under nominal conditions.
